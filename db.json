@@ -1,0 +1,99 @@
+{
+    "academic" : [
+        {
+        "title" : "Academic", 
+        "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/skcet%402x.png?alt=media", 
+        "content":{
+            "Name" : " SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY",
+            "description" : " Degree Name: Bachelor of Engineering - B.E Electronics and Communications Engineering<br/>Expected graduation: 2020 – 2024<br/>Activities and Societies: FOSEE IIT Bombay Hackathon, Toycathon 2021"
+        }
+        },
+        {
+            "title" : "Academic", 
+            "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/excel%402x.png?alt=media", 
+            "content":{
+                "Name" : "Excel Central School",
+                "description" : "Degree Name: 12th<br/>Field Of Study: Mathematics, Science Grade 90%<br/>Dates attended or Expected graduation: 2018 – 2020<br/>Activities and Societies: Olympiad and other competitive exams, Excel Q Team"
+        }
+        },
+        {
+            "title" : "Academic", 
+            "img" : "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/sbj.png?alt=media", 
+            "content":{
+                "Name" : "SBJ Vidya Bhavan International School",
+                "description" : "Degree Name: 10th<br/>Field Of Study: Science,Mathematics,Computer Grade 84%<br/>Dates attended or expected graduation: 2016 – 2018<br/>Activities and Societies: Quiz Team, NIU Project, District Athletics"
+        }
+        }
+    ],
+    "experience" : [
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/cvDragon.gif?alt=media",
+            "content" :{
+                "Name":"cvDragon",
+                "description":"Campus Ambassador - Part-Time<br/>Dates Employed: Jul 2021 – Present<br/>Employment Duration: 2 Months"
+            }            
+        },
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/bookking.jpg?alt=media",
+            "content" :{
+                "Name":"BookKing",
+                "description":"Design Intern - Internship<br/>Dates Employed: Feb 2021 – Mar 2021<br/>Employment Duration: 1 Months"
+            }
+        },
+        {
+            "title" : "Experience",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/youtube.png?alt=media",
+            "content" :{
+                "Name":"Tech Youtuber",
+                "description":"Content Creator-Self - employed<br/>Dates Employed: Jul 2018 – Mar 2021<br/>Employment Duration: 2 Year 9 Months"
+            }
+        }
+    ],
+    "projects" : [
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Personal Website (Jul-Aug 2021)",
+                "description":"Project description: Prototype for Maynooth Furniture website 🌐 It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧"
+            }
+        },
+        {
+            
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Furniture website protoype (Jun 2021)",
+                "description":"Project description: Prototype for Maynooth Furniture website 🌐 It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Goods manager (May 2021)",
+                "description":"Project description : Goods manager help to keeps track of the goods you have on your shelves. Build with EJS and Nodejs"
+            }
+        }
+],
+    "certifications" : [
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"Modern React with Redux",
+                "description":"Issued By : Udemy<br/>Issued date :  Jul 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-8f606a3e-2b83-4cf0-af17-60df14cb9933/' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/coursera.png?alt=media",
+            "content" :{
+                "Name":"HTML, CSS, and JavaScript for Web Developers",
+                "description":"Issued By : Coursera-elearning<br/>Issued date :  Jan 2021<br/><a target='_blank' href='https://coursera.org/verify/E5U5A77WQ5QE' style='font-style:italic'>See credential</a>"
+            }
+        }
+    ]
+}
