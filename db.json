@@ -57,7 +57,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
                 "Name":"Personal Website (Jul-Aug 2021)",
-                "description":"Project description: Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to load data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
+                "description":"Project description: Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to store data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
             }
         },
         {
