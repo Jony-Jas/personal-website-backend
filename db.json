@@ -90,7 +90,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/transparent.png?alt=media",
             "content" :{
                 "Name":"See More...",
-                "description":"<br/><a target='_blank' href='https://github.com/Jony-Jas/' style='font-style:italic'>Click here</a>"
+                "description":"<a target='_blank' href='https://github.com/Jony-Jas/' style='font-style:italic'>Click here</a>"
             }
         }
 ],
