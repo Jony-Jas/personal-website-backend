@@ -84,6 +84,14 @@
                 "Name":"Snake 'n' Food (Apr 2021)",
                 "description":"Project description : Classic snake game built from scratch.<br/><a target='_blank' href='https://github.com/Jony-Jas/snake-n-food' style='font-style:italic'>See Project</a>"
             }
+        },
+        {
+            "title" : "Projects",
+            "img":"",
+            "content" :{
+                "Name":"",
+                "description":"<br/><a target='_blank' href='https://github.com/Jony-Jas/' style='font-style:italic'>More...</a>"
+            }
         }
 ],
     "certifications" : [
