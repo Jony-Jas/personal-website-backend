@@ -57,7 +57,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
                 "Name":"Personal Website (Jul-Aug 2021)",
-                "description":"Project description: Prototype for Maynooth Furniture website 🌐 It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-58c35583-1b94-46cc-b069-2c33bb6f2d72/' style='font-style:italic'>See Project</a>"
+                "description":"Project description: Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to load data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
             }
         },
         {
@@ -66,7 +66,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
                 "Name":"Furniture website protoype (Jun 2021)",
-                "description":"Project description: Prototype for Maynooth Furniture website 🌐 It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-58c35583-1b94-46cc-b069-2c33bb6f2d72/' style='font-style:italic'>See Project</a>"
+                "description":"Project description: Prototype for Maynooth Furniture website. It includes micro-interactions and lots of wire framing. Build using Adobe XD 🔧<br/><a target='_blank' href='https://github.com/Jony-Jas/furniture-website-prototype' style='font-style:italic'>See Project</a>"
             }
         },
         {
@@ -74,7 +74,15 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
                 "Name":"Goods manager (May 2021)",
-                "description":"Project description : Goods manager help to keeps track of the goods you have on your shelves. Build with EJS and Nodejs<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-58c35583-1b94-46cc-b069-2c33bb6f2d72/' style='font-style:italic'>See Project</a>"
+                "description":"Project description : Goods manager help to keeps track of the goods you have on your shelves. Build with EJS and Nodejs<br/><a target='_blank' href='https://github.com/Jony-Jas/goods-manager' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Snake 'n' Food (Apr 2021)",
+                "description":"Project description : Classic snake game built from scratch.<br/><a target='_blank' href='https://github.com/Jony-Jas/snake-n-food' style='font-style:italic'>See Project</a>"
             }
         }
 ],
