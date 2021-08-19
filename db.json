@@ -97,6 +97,14 @@
     "certifications" : [
         {
             "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"Complete Code camp on Programming!",
+                "description":"Issued By : Udemy<br/>Issued date :  Aug 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-9412cfa1-aee4-43c5-a627-c3ca16691278/' style='font-style:italic'>See credential</a>"
+            }
+        },
+        {
+            "title" : "Certifications",
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/matlab.png?alt=media",
             "content" :{
                 "Name":"Image Processing Onramp",
