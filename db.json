@@ -61,6 +61,14 @@
             }
         },
         {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
+                "Name":"Tinder Clone (Jul 2021)",
+                "description":"This tinder clone was build using MERN stack. All the data are stored in MongoDB and used React as frontend..<br/><a target='_blank' href='https://github.com/Jony-Jas/tinder-clone' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
             
             "title" : "Projects",
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
