@@ -72,6 +72,14 @@
             "title" : "Projects",
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
+                "Name":"Exercise Tracker (Jul 2021)",
+                "description":"With this app, you can keep track of the exercise you have completed. Built using MERN stack.<br/><a target='_blank' href='https://github.com/Jony-Jas/exercise-tracker' style='font-style:italic'>See Project</a>"
+            }
+        },
+        {
+            "title" : "Projects",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+            "content" :{
                 "Name":"Streamy - video streamer (Jul 2021)",
                 "description":"A simple video steamer using React, rtmpserver and node.js in backend.<br/><a target='_blank' href='https://github.com/Jony-Jas/video-streamer' style='font-style:italic'>See Project</a>"
             }
