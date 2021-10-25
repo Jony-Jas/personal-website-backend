@@ -57,7 +57,7 @@
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
             "content" :{
                 "Name":"Personal Website (Jul-Aug 2021)",
-                "description":"Project description: Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to store data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
+                "description":"Build my own personal website 🌐 Build using React and Redux. Also made use of json-server to store data.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-website' style='font-style:italic'>See Project</a>"
             }
         },
         {
@@ -119,6 +119,14 @@
         }
 ],
     "certifications" : [
+        {
+            "title" : "Certifications",
+            "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
+            "content" :{
+                "Name":"The Complete Node.js Developer Course",
+                "description":"Issued By : Udemy<br/>Issued date :  Oct 2021<br/><a target='_blank' href='https://www.udemy.com/certificate/UC-e2b379ca-e76e-4695-ba73-0bea416535f0/' style='font-style:italic'>See credential</a>"
+            }
+        },
         {
             "title" : "Certifications",
             "img":"https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
