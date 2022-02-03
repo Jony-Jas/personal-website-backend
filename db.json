@@ -56,6 +56,14 @@
       "title": "Projects",
       "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
       "content": {
+        "Name": "Personal Blog (Jan 2022)",
+        "description": "Created my personal blog using Next.js and hosted it in Vercel.<br/><a target='_blank' href='https://github.com/Jony-Jas/uber-eats-clone' style='font-style:italic'>See Project</a>"
+      }
+    },
+    {
+      "title": "Projects",
+      "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+      "content": {
         "Name": "Uber Eats Clone (Nov 2021)",
         "description": "Uber Eats Clone app build using React-Native, Redux and yelp api.<br/><a target='_blank' href='https://github.com/Jony-Jas/uber-eats-clone' style='font-style:italic'>See Project</a>"
       }
