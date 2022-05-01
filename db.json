@@ -28,6 +28,14 @@
   "experience": [
     {
       "title": "Experience",
+      "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/yif.png?alt=media",
+      "content": {
+        "Name": "Youth India Foundation",
+        "description": "Front-End Developer - Internship<br/>Dates Employed: Mar 2022 – current<br/>Employment Duration: 3 Months"
+      }
+    },
+    {
+      "title": "Experience",
       "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/cvDragon.gif?alt=media",
       "content": {
         "Name": "cvDragon",
@@ -52,6 +60,14 @@
     }
   ],
   "projects": [
+    {
+      "title": "Projects",
+      "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
+      "content": {
+        "Name": "Password Manager (Feb 2022)",
+        "description": "Manager made using python and tkinter module.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-blog' style='font-style:italic'>See Project</a>"
+      }
+    },
     {
       "title": "Projects",
       "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
@@ -142,6 +158,14 @@
     }
   ],
   "certifications": [
+    {
+      "title": "Certifications",
+      "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/infosys.png?alt=media",
+      "content": {
+        "Name": "Python Programmer Certification",
+        "description": "Issued By : Infosys<br/>Issued date :  Mar 2022<br/><a target='_blank' href='https://drive.google.com/file/d/1ZruJ-meZh6drYVGSmJpaGjEKoFieSny2/view' style='font-style:italic'>See credential</a>"
+      }
+    },
     {
       "title": "Certifications",
       "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/udemy.png?alt=media",
