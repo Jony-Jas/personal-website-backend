@@ -65,7 +65,7 @@
       "img": "https://firebasestorage.googleapis.com/v0/b/jony-jas.appspot.com/o/point.png?alt=media",
       "content": {
         "Name": "Password Manager (Feb 2022)",
-        "description": "Manager made using python and tkinter module.<br/><a target='_blank' href='https://github.com/Jony-Jas/personal-blog' style='font-style:italic'>See Project</a>"
+        "description": "Manager made using python and tkinter module.<br/><a target='_blank' href='https://github.com/Jony-Jas/password-manager-python' style='font-style:italic'>See Project</a>"
       }
     },
     {
